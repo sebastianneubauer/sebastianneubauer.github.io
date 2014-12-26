@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Neublogger]]></title>
-  <link href="http://sebastianneubauer.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: World | Neublogger]]></title>
+  <link href="http://sebastianneubauer.github.io/blog/categories/world/atom.xml" rel="self"/>
   <link href="http://sebastianneubauer.github.io/"/>
   <updated>2014-12-26T17:01:13+01:00</updated>
   <id>http://sebastianneubauer.github.io/</id>
