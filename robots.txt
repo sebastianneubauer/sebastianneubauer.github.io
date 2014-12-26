@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://sebastianneubauer.github.io/sitemap.xml 
