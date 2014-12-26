@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://sebastianneubauer.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Neublogger
+subtitle: Scattered Thoughts on Data Science, Programming, DevOps and How to Keep it Simple Stupid...
+author: Sebastian Neubauer
 simple_search: https://www.google.com/search
 description:
 
@@ -70,8 +70,13 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: sebineubauer
 twitter_tweet_button: true
+twitter_tweet_count: 4
+twitter_show_replies: false
+twitter_follow_button: true
+twitter_show_follower_count: false
+
 
 # Google +1
 google_plus_one: false
@@ -91,8 +96,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: neublogger
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
